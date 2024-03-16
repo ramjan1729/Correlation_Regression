@@ -1,3 +1,5 @@
+## Name:Prideesh M
+## reg no:212223040154
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -25,5 +27,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
-
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 # Output 
+![pro ex03](https://github.com/ramjan1729/Correlation_Regression/assets/144870483/a339ea65-e953-4ebc-9e68-a5071a1b6315)
